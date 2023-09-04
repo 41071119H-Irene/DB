@@ -23,5 +23,6 @@
 Depend on your senario.
 
 ## 🙌作業連結
+-[Introduction](https://docs.google.com/presentation/d/1CP0D92DA8Ae8oyIKSquqUuTUpVqwLGT-14T32l9pf5U/edit#slide=id.g241186a303b_0_39)
 ## 🫠課程簡報 or 影片
 ## 🔈期末分享影片
