@@ -6,8 +6,8 @@
 ***
 # Index
 
-+ [**Note**](https://github.com/41071119H-Irene/DB#pencilnote))
-+ [**Homework**](https://github.com/41071119H-Irene/DB#homework))
++ [**Note**](https://github.com/41071119H-Irene/DB#pencilnote)
++ [**Homework**](https://github.com/41071119H-Irene/DB#homework)
 + [**Class Slides**](https://github.com/41071119H-Irene/DB#class-slides)
 + [**Final Project**](https://github.com/41071119H-Irene/DB#Final-Project)
 
