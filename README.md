@@ -6,10 +6,10 @@
 ***
 # Index
 
-+ [**Note**](https://github.com/41071119H-Irene/DB#pencil%E8%AA%B2%E7%A8%8B%E7%AD%86%E8%A8%98)
-+ [**Homework**](https://github.com/41071119H-Irene/DB#%E4%BD%9C%E6%A5%AD%E9%80%A3%E7%B5%90)
-+ [**Class Slides**](https://github.com/41071119H-Irene/DB#%E8%AA%B2%E7%A8%8B%E7%B0%A1%E5%A0%B1)
-+ [**Final Project**]()
++ [**Note**](https://github.com/41071119H-Irene/DB#pencilnote))
++ [**Homework**](https://github.com/41071119H-Irene/DB#homework))
++ [**Class Slides**](https://github.com/41071119H-Irene/DB#class-slides)
++ [**Final Project**](https://github.com/41071119H-Irene/DB#Final-Project)
 
 ## :pencil:Note
 ### Introduction
