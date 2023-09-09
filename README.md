@@ -24,7 +24,7 @@
 Depend on your senario.
 
 ## 🙌Homework
-
+- [HW0- Create a DataBase System](https://youtu.be/xTVwxxSpk9M)
 ## 🫠Class Slides
 - [Introduction](https://docs.google.com/presentation/d/1CP0D92DA8Ae8oyIKSquqUuTUpVqwLGT-14T32l9pf5U/edit#slide=id.g241186a303b_0_39)
 ## 🔈Final Project
