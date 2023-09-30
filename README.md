@@ -29,6 +29,7 @@ Depend on your senario.
 - [HW0- Create a DataBase System](https://youtu.be/xTVwxxSpk9M)
 - [HW1- Create your Own DataBase](https://youtu.be/vE8n5R214kU)
 ![Ideashare DB Structure](https://github.com/41071119H-Irene/DB/assets/112916890/cb08e028-b1a9-4050-a7e5-fd5488f06666)
+- [HW2- Create your Own Database-2](https://youtu.be/A8FNrgc0uQQ)
 
 ## 🫠Class Slides
 - [Introduction](https://docs.google.com/presentation/d/1CP0D92DA8Ae8oyIKSquqUuTUpVqwLGT-14T32l9pf5U/edit#slide=id.g241186a303b_0_39)
