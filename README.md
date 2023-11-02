@@ -42,5 +42,5 @@ Depend on your senario.
 ## 🔈Final Project
 - [I. Introduction of Product]()
 - [II. Product Detail]()
-- []()
-- []()
+- [III. Local to Cloud]()
+- [FINAL.  Show Production]()
