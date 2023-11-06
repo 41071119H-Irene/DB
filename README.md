@@ -37,5 +37,9 @@ Depend on your senario.
 - [CRUD in SQL DB](https://docs.google.com/presentation/d/1amn8pDX2Wx4N6ZjzhCGoQFJH4DqaRcQ2DJAdg3hbIrA/edit?usp=sharing)
 - [CRUD in Web APP](https://docs.google.com/presentation/d/1053jwkOvLAdeQCDUJKq-c0NwxB3jOqlkiL244y0DPro/edit#slide=id.g23dd2219a46_0_124)
 - [CRUD NSQL](https://docs.google.com/presentation/d/1J0ASP97LgjTQeKqTdm1vRhxh6MGya-C1D-8w7ykUPqE/edit#slide=id.g23dd2219a46_0_124)
-- []()
+- [Proposal First Discussion](https://docs.google.com/presentation/d/18gjdy7pYScp5Z4H_IEvk5ET6Kb3d7rX_j3hsmNzCn-g/edit#slide=id.g23dd2219a46_0_124)
 ## 🔈Final Project
+- [I. Product Introduction](https://www.youtube.com/watch?v=Nq2YzCqyY1Y)
+- [II. Product Detail]()
+- [III. Local To Cloud]()
+- [Final. Show Product]()
