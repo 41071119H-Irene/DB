@@ -41,6 +41,7 @@ Depend on your senario.
 - [CRUD NSQL](https://docs.google.com/presentation/d/1J0ASP97LgjTQeKqTdm1vRhxh6MGya-C1D-8w7ykUPqE/edit#slide=id.g23dd2219a46_0_124)
 - [Azure Deploy](https://docs.google.com/presentation/d/1g1mkza7Uufm9A4fwRI_fJRAcWf-QTFf9Jn00I8iiLM0/edit#slide=id.g23dd2219a46_0_124)
 - [Proposal First Discussion](https://docs.google.com/presentation/d/18gjdy7pYScp5Z4H_IEvk5ET6Kb3d7rX_j3hsmNzCn-g/edit#slide=id.g23dd2219a46_0_124)
+- [Discussion Time](https://docs.google.com/presentation/d/1d-96NiLhL4LP8j23fGZFzRwL9t3WTT3yfKx-DfV3jq8/edit#slide=id.p)
 ## 🔈Final Project
 - [I. Product Introduction](https://www.youtube.com/watch?v=Nq2YzCqyY1Y)
 - [II. Product Detail](https://youtu.be/bGF_M917EPM)
