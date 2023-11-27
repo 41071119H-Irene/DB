@@ -1,4 +1,0 @@
-{
-    "appService.defaultWebAppToDeploy": "/subscriptions/1b02f63f-b605-4eb7-8789-fb52bff7c04d/resourceGroups/HW5-test/providers/Microsoft.Web/sites/HW5-test",
-    "appService.deploySubpath": "client"
-}
