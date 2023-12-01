@@ -1,0 +1,33 @@
+FROM node:18-alpine
+
+# 设置工作目录为客户端应用
+WORKDIR /app/client
+COPY client/package*.json .
+
+# 安装客户端依赖
+RUN npm install
+
+# 拷贝客户端应用代码
+COPY client/ .
+
+# 构建客户端应用
+RUN npm run build
+
+# 设置工作目录为服务器端
+WORKDIR /app/server
+
+# 拷贝服务器端依赖文件
+COPY server/package*.json .
+COPY server/yarn.lock .
+
+# 安装服务器端依赖
+RUN yarn install
+
+# 拷贝服务器端应用代码
+COPY server/ .
+
+# 暴露端口（这里假设使用的是 PostgreSQL 默认端口）
+EXPOSE 5432
+
+# 运行服务器端应用（假设这里使用的是 Node.js 连接到 PostgreSQL）
+CMD ["node", "index.js"]
