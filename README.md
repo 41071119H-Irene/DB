@@ -45,6 +45,5 @@ Depend on your senario.
 ## 🔈Final Project
 - [I. Product Introduction](https://www.youtube.com/watch?v=Nq2YzCqyY1Y)
 - [II. Product Detail](https://youtu.be/bGF_M917EPM)
-- [III. Local To Cloud]()
+- [III. Local To Cloud](https://youtu.be/GNe5B5DdysQ)
 - [Final. Show & Demo]()
-- [Final. Show Product]()
