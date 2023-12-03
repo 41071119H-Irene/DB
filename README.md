@@ -32,7 +32,7 @@ Depend on your senario.
 - [HW2- Create your Own Database-2](https://youtu.be/A8FNrgc0uQQ)
 - [HW3- Fullstack Database with No-SQL Language](https://youtu.be/z_0wBd7xErk)
 - [HW4 - Help Others to Finish the Work]
-- [HW5 - Azure Deploy]()
+- [HW5 - Deploy to Azure](https://youtu.be/rfWAmyw-Y0g)
 
 ## 🫠Class Slides
 - [Introduction](https://docs.google.com/presentation/d/1CP0D92DA8Ae8oyIKSquqUuTUpVqwLGT-14T32l9pf5U/edit#slide=id.g241186a303b_0_39)
